@@ -14,7 +14,7 @@ This repository contains the source code for my personal blog web application, d
 - **Backend:** Django
 - **Frontend:** HTML, CSS, JavaScript (Bootstrap for styling)
 - **Database:** SQLite (default Django database)
-- **Deployment:** [Add deployment platform if applicable]
+- **Deployment:** N/A
 
 ## Getting Started
 
